@@ -1,4 +1,4 @@
-#👋 Hi, I'm Cory Cusick
+<h1 align="center">👋 Hi, I'm Cory Cusick</h1>
 
 🏅
 ![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge)
