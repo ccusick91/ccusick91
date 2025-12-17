@@ -3,52 +3,27 @@
 🏅
 ![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge)
 
-🎓 ![SIU Salukis](https://img.shields.io/badge/SIU-Salukis-maroon?style=for-the-badge)
+🎓 ![SIU Salukis Cybersecurity Technology](https://img.shields.io/badge/SIU-Salukis-maroon?style=for-the-badge)
 
 
 
 Aspiring IT & Cybersecurity Professional | A+ Certified | Networking & Linux Labs | Junior Developer | Seeking Help Desk / SysAdmin Roles
 
-I'm finishing my B.S. in Cybersecurity Technology (Dec 2025) and actively building hands-on projects in networking, Linux, Windows administration, and security fundamentals. I’m passionate about troubleshooting, learning by doing, and growing into a long-term IT role.
+I'm passionate about understanding how things work and acively building hands on projects in networking, Linux, Windows administration, and security fundamentals.
 
 
 🚀 Skills & Technologies
 
-Operating Systems: Windows 10/11, Linux (Ubuntu/Kali), macOS
+Operating Systems: Windows 10/11, Windows Server (lab), Linux (Ubuntu/Kali), macOS
 
-Networking: TCP/IP, DHCP, DNS, VLAN basics, Wi-Fi analysis
+Networking: TCP/IP, DHCP, DNS, Wi-Fi troubleshooting
 
-Security Tools: Wireshark, Shodan, Nmap, password auditing tools
+Hardware: PC/laptop repair, peripherals, BIOS/UEFI
 
-Systems & Tools: VMware/VirtualBox, Git, Bash/PowerShell basics
+Security: Malware fundamentals, endpoint protection concepts
 
-Hardware: PC/laptop repair, BIOS/UEFI configuration
+Tools: Powershell (basic), Bash (basic), VMware, VirtualBox
 
-Certifications: CompTIA A+ | Network+ / CCNA in progress
-
-
-🧪 Current Projects
-
-🔹 Homelab Build — Windows + Linux VMs for networking and security testing
-🔹 WiFi Analysis Lab — Capturing & analyzing wireless network traffic
-🔹 Android Security Hardening — Securing mobile OS and testing controls
-🔹 Shodan Vulnerability Research — Identifying exposed services
-🔹 Python Learning — Automation scripts & log parsing practice
-
-
-🎯 What I'm Looking For
-
-I’m actively preparing for and seeking entry-level roles such as:
-
-Help Desk Technician
-
-IT Support Specialist
-
-Junior System Administrator
-
-SOC / Security Analyst (entry-level)
-
-Application Support
 
 
 📫 Contact Me
