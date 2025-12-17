@@ -33,12 +33,3 @@ Email: corycusick@gmail.com
 LinkedIn: https://www.linkedin.com/in/corycusick09
 
 If you’re building a strong IT team, I’d love to connect and contribute.
-
-
-⚡ Fun Facts
-
-Former automotive diagnostic tech → now using that troubleshooting mindset in IT
-
-Obsessed with labs, homelabs, networking, and learning new tools
-
-Balancing school, projects, and family while grinding toward an IT career
