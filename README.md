@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, I'm Cory
+<a href="https://www.linkedin.com/in/corycusick09/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **ccusick91/ccusick91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
